@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+.tx_esbd_preview.json
+.tx_esbd_preview.json.tmp
+.tx_esbd_preview.json.bak
+tx_esbd_preview.json
+page1.html
+logs/
